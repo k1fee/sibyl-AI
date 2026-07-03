@@ -128,12 +128,3 @@ Pull requests welcome! Ideas for contributions:
 - Voice input via Web Speech API
 - Conversation search
 
----
-
-## 📄 License
-
-MIT — do whatever you like with it.
-
----
-
-*Built with the Anthropic Claude API.*
