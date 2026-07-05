@@ -4,8 +4,6 @@
 
 A beautifully designed AI chat assistant powered by Claude. Dark, oracular aesthetic with a clean sidebar, conversation memory, and a thoughtful AI personality named Sibyl.
 
-![Sibyl Screenshot](screenshot.png)
-
 ---
 
 ## ✨ Features
